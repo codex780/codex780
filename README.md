@@ -1,112 +1,115 @@
-<h1 align="center">Hi, We're Bug Slayes 🎯</h1>
-<h3 align="center">Elite Software & Creative Digital Agency 🚀</h3>
+<h1 align="center">Hi, We're Bug Slayers 🎯</h1>
+<h3 align="center">Elite Software & Digital Growth Agency 🚀</h3>
 <p align="center"><b>CODE. DESIGN. CONQUER.</b></p>
 
 <div align="center">
 <p align="center">
-Turning ideas into powerful digital solutions that drive growth.
+Building high-performance apps, pixel-perfect designs, and targeted growth campaigns.
 </p>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml1dTR1cXduNjVyNnBhZjZqaHpwajN2NWd3NmJwNXM0NHB1NHV4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="40%" />
+<!-- Dark / Red Agency Tech Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=BUG%20SLAYERS&fontSize=42&fontColor=FF1E27&animation=fadeIn&stroke=FF1E27&strokeWidth=1" width="100%" />
+
 </div>
 
 ---
 
 ## 🎯 About Us
 
-**Bug Slayers** is an elite digital agency specializing in UI/UX design, full-stack web/mobile development, visual branding, and data-driven media buying. We transform ambitious concepts into high-performing, scalable products.
+**Bug Slayers** is a full-service creative agency. We combine cutting-edge software development, intuitive UI/UX design, and data-driven marketing to build and scale digital products.
 
 Our Core Focus:
-- User-Centric Interface & Product Design (UI/UX)
-- Scalable Web & Cross-Platform Mobile Apps
-- Visual Branding & Impactful Graphic Assets
-- ROI-Focused Media Buying & Growth Strategies
-- AI-Powered Workflow & Content Optimization
+- UI/UX & Interactive Product Design
+- Full-Stack Web & Cross-Platform Mobile Development
+- Visual Branding & High-Converting Digital Assets
+- ROI-Driven Media Buying & Ad Campaigns
+- Strategic AI Integration for Business Growth
 
 ---
 
-## 🚀 Services & Tech Stack
+## 🚀 Skills & Service Expertise
 
-### 🎨 UI/UX & Graphic Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+### 🎨 UI/UX & Web Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-- User Research, Wireframing & Interactive Prototyping
-- Design Systems & Modern UI Component Libraries
-- Brand Identity & Creative Digital Assets
+- Web & Mobile Design Architecture
+- User Research, Wireframing & Prototyping
+- Design Systems & Visual Brand Assets
 
-### 💻 Development & Engineering
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+### 💻 Web & Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-- High-Performance Web Applications (Frontend & Full-stack)
-- Seamless Mobile Apps (Android & iOS via Flutter)
-- Clean Architecture & Optimized Codebases
+- Scalable Cross-Platform Mobile Apps (Android & iOS)
+- High-Performance Full-Stack Web Applications
+- RESTful & GraphQL API Integration
+- Clean Architecture & State Management
 
 ### 🤖 AI Technologies & Workflows
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-- Advanced AI-Assisted Design & Content Workflows
-- Rapid Copywriting & Marketing Automation
+- Prompt Engineering & Design Automation
+- Content & Copywriting Workflows
 
-### 📣 Media Buying & Growth Marketing
-![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
+### 📣 Digital Marketing & Media Buying
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
 
-- Paid Ad Campaigns & Strategic Media Buying
-- Page Growth & Targeted Audience Acquisition
-- ROI & Conversion Rate Optimization
+- Media Buying & Performance Marketing
+- Audience Targeting & Page Growth
+- ROI & Conversion Optimization
 
 ---
 
-# 🧰 Agency Tool Stack
+# 🧰 Tech Toolbox
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,canva,react,nextjs,flutter,ts,tailwind,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=figma,flutter,nodejs,react,nextjs,ps,ai,canva,html,css,git,github" />
 </p>
 
 ---
 
-## 💡 Why Work With Us?
+## 💡 Top Skills Overview
 
-✔ Clean Code & Powerful Performance  
-✔ On-Time Delivery for Every Milestone  
-✔ Seamless Cross-Discipline Collaboration (Designers + Developers + Marketers)  
-✔ High-ROI Media Buying Campaigns  
-✔ End-to-End Product Execution  
+<div align="center">
+
+| Skill / Service | Technology / Core Focus | Key Value Delivered |
+| :--- | :--- | :--- |
+| **Mobile App Dev** | Flutter | Cross-platform, fast, native-feel iOS & Android apps |
+| **Backend Engineering** | Node.js | Fast, asynchronous microservices & API architecture |
+| **Frontend Frameworks** | React.js / Next.js | Dynamic, SEO-ready, high-performance web applications |
+| **Digital Marketing** | Meta Ads / Google Ads / Media Buying | Targeted campaigns focused on high ROI & user growth |
+| **UI/UX & Web Design** | Figma / Photoshop / Illustrator | Seamless, intuitive, and modern user-centered interfaces |
+
+</div>
 
 ---
 
 ## 📈 Impact at a Glance
 
-| Metric | Achievement |
+| Metric | Performance |
 | :--- | :--- |
 | **Projects Completed** | 50+ |
 | **Happy Clients** | 30+ |
 | **Client Satisfaction** | 99% |
-| **Industry Experience** | 2+ Years |
+| **Years of Experience** | 2+ Years |
 
 ---
 
-## 🌐 Connect & Portfolio
+## 📫 Connect With Us
 
-🌐 **Portfolio:**  
-[bug-slayers-lny9.vercel.app](https://bug-slayers-lny9.vercel.app/)
-
-📱 **WhatsApp:**  
-[+20 108 045 9324](https://wa.me/201080459324)
-
-🌐 **Facebook:**  
-[Bug Slayers](https://facebook.com)
+🌐 **Portfolio:** [bug-slayers-lny9.vercel.app](https://bug-slayers-lny9.vercel.app/)  
+📱 **WhatsApp:** [+20 108 045 9324](https://wa.me/201080459324)  
+🌐 **Facebook:** [Bug Slayers](https://facebook.com)
 
 ---
 
-⭐ **Ideas don't need luck, they need execution.**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&stroke=FF1E27&strokeWidth=1" width="100%" />
+</div>
