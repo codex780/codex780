@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 <!-- Modern Animated Cyber Header -->
 <svg viewBox="0 0 900 230" width="100%" height="230" xmlns="http://www.w3.org/2000/svg">
@@ -204,3 +204,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A0D12&height=90&section=footer&stroke=FF1E27&strokeWidth=2" width="100%" alt="Footer Wave" />
 </div>
+**
