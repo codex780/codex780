@@ -4,9 +4,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlwcWkzNXhwYzZhbjVtZHdiZ3lwYXlvN2FjcG96ZnYxbXhzdGlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="340" style="border-radius: 18px; border: 3px solid #FF1E27; box-shadow: 0 0 30px rgba(255, 30, 39, 0.7);" alt="Bug Slayers Animated Logo" />
 
   <br/><br/>
-<div align="center">
 
-  <!-- Logo Gradient Header SVG -->
+  <!-- Corrected Logo Gradient Header SVG -->
   <svg width="100%" height="70" viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <!-- Gradient Definition from Logo Colors -->
@@ -16,10 +15,22 @@
         <stop offset="100%" stop-color="#FFFFFF" />
       </linearGradient>
 
-    
+      <!-- Glowing Effect -->
+      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="4" result="blur" />
+        <feMerge>
+          <feMergeNode in="blur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- Gradient Text -->
+    <text x="50%" y="50" text-anchor="middle" fill="url(#logoGradient)" font-family="'Orbitron', 'Fira Code', 'Segoe UI', sans-serif" font-size="42" font-weight="900" letter-spacing="8" filter="url(#glow)">
+      🎯 BUG SLAYERS
+    </text>
   </svg>
 
-</div>
   <p align="center">
     <font color="#FFFFFF" size="4"><b>⚡ CODE • DESIGN • CONQUER ⚡</b></font>
   </p>
