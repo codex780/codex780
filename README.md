@@ -5,13 +5,15 @@
 
   <br/><br/>
 
-  <!-- Multi-Color Animated Typing Title -->
-  <a href="https://bug-slayers-lny9.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=1000&color=FF1E27&center=true&vCenter=true&width=650&height=65&lines=🎯+BUG+SLAYERS;⚡+CODE+%E2%80%A2+DESIGN+%E2%80%A2+CONQUER;🚀+WE+DON'T+JUST+CODE%2C+WE+SLAY+BUGS." alt="Animated Bug Slayers Title" />
-  </a>
-
+  <!-- Bold Clean Text Title -->
+  <h1 align="center">
+    <font color="#FF1E27" size="7"><b>🎯 BUG SLAYERS</b></font>
+  </h1>
   <p align="center">
-    <font size="4" color="#8B949E"><b>Full-Service Digital Engineering & Growth Agency</b></font>
+    <font color="#FFFFFF" size="4"><b>⚡ CODE • DESIGN • CONQUER ⚡</b></font>
+  </p>
+  <p align="center">
+    <font color="#8B949E" size="3"><b>Full-Service Digital Engineering & Growth Agency</b></font>
   </p>
 
   <br/>
