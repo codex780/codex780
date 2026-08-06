@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Logo Image / GIF -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcml1dTR1cXduNjVyNnBhZjZqaHpwajN2NWd3NmJwNXM0NHB1NHV4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="160" alt="Bug Slayers Logo" />
+  <!-- New Bug Slayers Animated GIF -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlwcWkzNXhwYzZhbjVtZHdiZ3lwYXlvN2FjcG96ZnYxbXhzdGlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="180" style="border-radius: 12px; border: 2px solid #FF1E27; box-shadow: 0 0 15px rgba(255, 30, 39, 0.4);" alt="Bug Slayers Logo" />
 
   <h1 align="center">🎯 BUG SLAYERS</h1>
   <p align="center"><b>CODE ⚡ DESIGN ⚡ CONQUER</b></p>
@@ -9,16 +9,16 @@
 
   <br/>
 
-  <!-- Interactive Badges -->
+  <!-- Interactive Action Badges -->
   <p align="center">
     <a href="https://bug-slayers-lny9.vercel.app/">
-      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-FF1E27?style=for-the-badge&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-FF1E27?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
     </a>
     <a href="https://wa.me/201080459324">
-      <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
     <a href="https://facebook.com">
-      <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+      <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
 
@@ -85,7 +85,9 @@
 ### 🧰 Skill Ecosystem
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,js,figma,ps,ai,canva,tailwind,firebase,git,github,vscode&perline=7" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,js,figma,ps,ai,canva,tailwind,firebase,git,github,vscode&perline=7" alt="Skill Stack" />
+  </a>
 </p>
 
 ---
