@@ -1,11 +1,18 @@
 <div align="center">
 
-  <!-- New Bug Slayers Animated GIF -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlwcWkzNXhwYzZhbjVtZHdiZ3lwYXlvN2FjcG96ZnYxbXhzdGlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="180" style="border-radius: 12px; border: 2px solid #FF1E27; box-shadow: 0 0 15px rgba(255, 30, 39, 0.4);" alt="Bug Slayers Logo" />
+  <!-- Enlarged Animated Logo with Neon Glow -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlwcWkzNXhwYzZhbjVtZHdiZ3lwYXlvN2FjcG96ZnYxbXhzdGlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="340" style="border-radius: 18px; border: 3px solid #FF1E27; box-shadow: 0 0 30px rgba(255, 30, 39, 0.7);" alt="Bug Slayers Animated Logo" />
 
-  <h1 align="center">🎯 BUG SLAYERS</h1>
-  <p align="center"><b>CODE ⚡ DESIGN ⚡ CONQUER</b></p>
-  <p align="center"><i>Full-Service Digital Engineering & Growth Agency</i></p>
+  <br/><br/>
+
+  <!-- Multi-Color Animated Typing Title -->
+  <a href="https://bug-slayers-lny9.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=1000&color=FF1E27&center=true&vCenter=true&width=650&height=65&lines=🎯+BUG+SLAYERS;⚡+CODE+%E2%80%A2+DESIGN+%E2%80%A2+CONQUER;🚀+WE+DON'T+JUST+CODE%2C+WE+SLAY+BUGS." alt="Animated Bug Slayers Title" />
+  </a>
+
+  <p align="center">
+    <font size="4" color="#8B949E"><b>Full-Service Digital Engineering & Growth Agency</b></font>
+  </p>
 
   <br/>
 
