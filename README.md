@@ -7,9 +7,8 @@
 
   <!-- Bold Clean Text Title -->
 <h1 align="center">
-  <font color="#FF1E27" size="7"><b>🎯 B U G &nbsp; S L A Y E R S</b></font>
+  <font color="#FF1E27" size="7"><b> B U G &nbsp; S L A Y E R S</b></font>
   <br/>
-  <font color="#FFFFFF" size="4"><b>[ C O D E &nbsp;•&nbsp; D E S I G N &nbsp;•&nbsp; C O N Q U E R ]</b></font>
 </h1>
   <p align="center">
     <font color="#FFFFFF" size="4"><b>⚡ CODE • DESIGN • CONQUER ⚡</b></font>
