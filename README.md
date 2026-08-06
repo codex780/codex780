@@ -4,12 +4,22 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlwcWkzNXhwYzZhbjVtZHdiZ3lwYXlvN2FjcG96ZnYxbXhzdGlrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="340" style="border-radius: 18px; border: 3px solid #FF1E27; box-shadow: 0 0 30px rgba(255, 30, 39, 0.7);" alt="Bug Slayers Animated Logo" />
 
   <br/><br/>
+<div align="center">
 
-  <!-- Bold Clean Text Title -->
-<h1 align="center">
-  <font color="#FF1E27" size="7"><b> B U G &nbsp; S L A Y E R S</b></font>
-  <br/>
-</h1>
+  <!-- Logo Gradient Header SVG -->
+  <svg width="100%" height="70" viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Gradient Definition from Logo Colors -->
+      <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#FF1E27" />
+        <stop offset="50%" stop-color="#B71C1C" />
+        <stop offset="100%" stop-color="#FFFFFF" />
+      </linearGradient>
+
+    
+  </svg>
+
+</div>
   <p align="center">
     <font color="#FFFFFF" size="4"><b>⚡ CODE • DESIGN • CONQUER ⚡</b></font>
   </p>
