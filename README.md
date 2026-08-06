@@ -7,7 +7,7 @@
 
   <!-- Clean Cyber Header Card -->
   <div style="background: #0d1117; border: 2px solid #FF1E27; border-radius: 12px; padding: 15px 30px; display: inline-block; box-shadow: 0 0 15px rgba(255, 30, 39, 0.3);">
-    <h1 style="margin: 0; color: #FF1E27; font-size: 32px; letter-spacing: 3px;">
+    <h1 style="margin: 0; color: #B71C1C; font-size: 32px; letter-spacing: 3px;">
       <b>
         BUG SLAYERS
       </b>
