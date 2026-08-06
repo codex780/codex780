@@ -5,35 +5,18 @@
 
   <br/><br/>
 
-  <!-- Corrected Logo Gradient Header SVG -->
-  <svg width="100%" height="70" viewBox="0 0 700 70" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <!-- Gradient Definition from Logo Colors -->
-      <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#FF1E27" />
-        <stop offset="50%" stop-color="#B71C1C" />
-        <stop offset="100%" stop-color="#FFFFFF" />
-      </linearGradient>
+  <!-- Clean Cyber Header Card -->
+  <div style="background: #0d1117; border: 2px solid #FF1E27; border-radius: 12px; padding: 15px 30px; display: inline-block; box-shadow: 0 0 15px rgba(255, 30, 39, 0.3);">
+    <h1 style="margin: 0; color: #FF1E27; font-size: 32px; letter-spacing: 3px;">
+      <b>🎯 BUG SLAYERS</b>
+    </h1>
+    <p style="margin: 5px 0 0 0; color: #FFFFFF; font-weight: bold; font-size: 14px;">
+      ⚡ CODE • DESIGN • CONQUER ⚡
+    </p>
+  </div>
 
-      <!-- Glowing Effect -->
-      <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-        <feGaussianBlur stdDeviation="4" result="blur" />
-        <feMerge>
-          <feMergeNode in="blur" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-    </defs>
+  <br/><br/>
 
-    <!-- Gradient Text -->
-    <text x="50%" y="50" text-anchor="middle" fill="url(#logoGradient)" font-family="'Orbitron', 'Fira Code', 'Segoe UI', sans-serif" font-size="42" font-weight="900" letter-spacing="8" filter="url(#glow)">
-      🎯 BUG SLAYERS
-    </text>
-  </svg>
-
-  <p align="center">
-    <font color="#FFFFFF" size="4"><b>⚡ CODE • DESIGN • CONQUER ⚡</b></font>
-  </p>
   <p align="center">
     <font color="#8B949E" size="3"><b>Full-Service Digital Engineering & Growth Agency</b></font>
   </p>
