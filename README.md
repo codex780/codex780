@@ -33,7 +33,7 @@
     <a href="https://wa.me/201080459324">
       <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="https://facebook.com">
+    <a href="[https://facebook.com](https://www.facebook.com/bugslayers1)">
       <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
   </p>
